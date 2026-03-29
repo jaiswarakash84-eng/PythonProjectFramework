@@ -1,0 +1,4 @@
+#git status
+#git add (-A for all file or file name)
+#git commit -m "added commit"
+#git push origin master
