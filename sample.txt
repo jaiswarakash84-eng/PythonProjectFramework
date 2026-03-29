@@ -3,3 +3,4 @@
 #git commit -m "added commit"
 #git push origin master (pycharm to github)
 #git pull origin master (github to pycharm)
+#call .venv\Scripts\activate (setup the env)    
